@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-16T22:27:51 ICT" name="Sauce Demo Suite" finished-at="2023-07-16T22:28:46 ICT" duration-ms="55193">
+    <groups>
+    </groups>
+    <test started-at="2023-07-16T22:27:51 ICT" name="Sauce Demo Test" finished-at="2023-07-16T22:28:46 ICT" duration-ms="55193">
+      <class name="test.cases.LoginTest">
+        <test-method is-config="true" signature="configEnvironment()[pri:0, instance:test.cases.LoginTest@6724cdec]" started-at="2023-07-16T22:28:16 ICT" name="configEnvironment" finished-at="2023-07-16T22:28:17 ICT" duration-ms="1247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configEnvironment -->
+        <test-method is-config="true" signature="goToApps()[pri:0, instance:test.cases.LoginTest@6724cdec]" started-at="2023-07-16T22:28:17 ICT" name="goToApps" finished-at="2023-07-16T22:28:18 ICT" duration-ms="976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToApps -->
+        <test-method is-config="true" signature="initClass()[pri:0, instance:test.cases.LoginTest@6724cdec]" started-at="2023-07-16T22:28:18 ICT" name="initClass" finished-at="2023-07-16T22:28:18 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initClass -->
+        <test-method signature="loginWithCorrectData(java.lang.reflect.Method)[pri:0, instance:test.cases.LoginTest@6724cdec]" started-at="2023-07-16T22:28:18 ICT" name="loginWithCorrectData" description="User login with correct data" finished-at="2023-07-16T22:28:23 ICT" duration-ms="4514" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.cases.LoginTest.loginWithCorrectData(java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithCorrectData -->
+        <test-method is-config="true" signature="deleteAllCookiesAfterMethod()[pri:0, instance:test.cases.LoginTest@6724cdec]" started-at="2023-07-16T22:28:23 ICT" name="deleteAllCookiesAfterMethod" finished-at="2023-07-16T22:28:23 ICT" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCookiesAfterMethod -->
+        <test-method is-config="true" signature="goToApps()[pri:0, instance:test.cases.LoginTest@6724cdec]" started-at="2023-07-16T22:28:23 ICT" name="goToApps" finished-at="2023-07-16T22:28:23 ICT" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToApps -->
+        <test-method is-config="true" signature="initClass()[pri:0, instance:test.cases.LoginTest@6724cdec]" started-at="2023-07-16T22:28:23 ICT" name="initClass" finished-at="2023-07-16T22:28:23 ICT" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initClass -->
+        <test-method signature="loginWithIncorrectData(java.lang.reflect.Method)[pri:1, instance:test.cases.LoginTest@6724cdec]" started-at="2023-07-16T22:28:23 ICT" name="loginWithIncorrectData" description="User login with incorrect data" finished-at="2023-07-16T22:28:28 ICT" duration-ms="4499" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.cases.LoginTest.loginWithIncorrectData(java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithIncorrectData -->
+        <test-method is-config="true" signature="deleteAllCookiesAfterMethod()[pri:0, instance:test.cases.LoginTest@6724cdec]" started-at="2023-07-16T22:28:28 ICT" name="deleteAllCookiesAfterMethod" finished-at="2023-07-16T22:28:28 ICT" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCookiesAfterMethod -->
+        <test-method is-config="true" signature="goToApps()[pri:0, instance:test.cases.LoginTest@6724cdec]" started-at="2023-07-16T22:28:28 ICT" name="goToApps" finished-at="2023-07-16T22:28:28 ICT" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToApps -->
+        <test-method is-config="true" signature="initClass()[pri:0, instance:test.cases.LoginTest@6724cdec]" started-at="2023-07-16T22:28:28 ICT" name="initClass" finished-at="2023-07-16T22:28:28 ICT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initClass -->
+        <test-method signature="loginWithLockedOutAccount(java.lang.reflect.Method)[pri:1, instance:test.cases.LoginTest@6724cdec]" started-at="2023-07-16T22:28:28 ICT" name="loginWithLockedOutAccount" description="User login with locked out account" finished-at="2023-07-16T22:28:33 ICT" duration-ms="4419" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.cases.LoginTest.loginWithLockedOutAccount(java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithLockedOutAccount -->
+        <test-method is-config="true" signature="deleteAllCookiesAfterMethod()[pri:0, instance:test.cases.LoginTest@6724cdec]" started-at="2023-07-16T22:28:33 ICT" name="deleteAllCookiesAfterMethod" finished-at="2023-07-16T22:28:33 ICT" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCookiesAfterMethod -->
+        <test-method is-config="true" signature="goToApps()[pri:0, instance:test.cases.LoginTest@6724cdec]" started-at="2023-07-16T22:28:33 ICT" name="goToApps" finished-at="2023-07-16T22:28:33 ICT" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToApps -->
+        <test-method is-config="true" signature="initClass()[pri:0, instance:test.cases.LoginTest@6724cdec]" started-at="2023-07-16T22:28:33 ICT" name="initClass" finished-at="2023-07-16T22:28:33 ICT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initClass -->
+        <test-method signature="loginWithProblemAccount(java.lang.reflect.Method)[pri:2, instance:test.cases.LoginTest@6724cdec]" started-at="2023-07-16T22:28:33 ICT" name="loginWithProblemAccount" description="User login with problem account" finished-at="2023-07-16T22:28:38 ICT" duration-ms="4616" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.cases.LoginTest.loginWithProblemAccount(java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithProblemAccount -->
+        <test-method is-config="true" signature="deleteAllCookiesAfterMethod()[pri:0, instance:test.cases.LoginTest@6724cdec]" started-at="2023-07-16T22:28:38 ICT" name="deleteAllCookiesAfterMethod" finished-at="2023-07-16T22:28:38 ICT" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCookiesAfterMethod -->
+        <test-method is-config="true" signature="goToApps()[pri:0, instance:test.cases.LoginTest@6724cdec]" started-at="2023-07-16T22:28:38 ICT" name="goToApps" finished-at="2023-07-16T22:28:38 ICT" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToApps -->
+        <test-method is-config="true" signature="initClass()[pri:0, instance:test.cases.LoginTest@6724cdec]" started-at="2023-07-16T22:28:38 ICT" name="initClass" finished-at="2023-07-16T22:28:38 ICT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initClass -->
+        <test-method signature="loginWithPerformanceGlitchAccount(java.lang.reflect.Method)[pri:3, instance:test.cases.LoginTest@6724cdec]" started-at="2023-07-16T22:28:38 ICT" name="loginWithPerformanceGlitchAccount" description="User login with performance glitch account" finished-at="2023-07-16T22:28:46 ICT" duration-ms="7529" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.cases.LoginTest.loginWithPerformanceGlitchAccount(java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithPerformanceGlitchAccount -->
+        <test-method is-config="true" signature="deleteAllCookiesAfterMethod()[pri:0, instance:test.cases.LoginTest@6724cdec]" started-at="2023-07-16T22:28:46 ICT" name="deleteAllCookiesAfterMethod" finished-at="2023-07-16T22:28:46 ICT" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCookiesAfterMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.cases.LoginTest@6724cdec]" started-at="2023-07-16T22:28:46 ICT" name="tearDown" finished-at="2023-07-16T22:28:46 ICT" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.cases.LoginTest -->
+      <class name="test.cases.CheckoutItemsE2ETest">
+        <test-method is-config="true" signature="configEnvironment()[pri:0, instance:test.cases.CheckoutItemsE2ETest@de8039f]" started-at="2023-07-16T22:27:52 ICT" name="configEnvironment" finished-at="2023-07-16T22:27:56 ICT" duration-ms="3919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configEnvironment -->
+        <test-method is-config="true" signature="goToApps()[pri:0, instance:test.cases.CheckoutItemsE2ETest@de8039f]" started-at="2023-07-16T22:27:56 ICT" name="goToApps" finished-at="2023-07-16T22:27:57 ICT" duration-ms="1307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToApps -->
+        <test-method is-config="true" signature="initClass()[pri:0, instance:test.cases.CheckoutItemsE2ETest@de8039f]" started-at="2023-07-16T22:27:58 ICT" name="initClass" finished-at="2023-07-16T22:27:58 ICT" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initClass -->
+        <test-method signature="checkoutSeveralItemsUntilSuccessfullyTest(java.lang.reflect.Method)[pri:0, instance:test.cases.CheckoutItemsE2ETest@de8039f]" started-at="2023-07-16T22:27:58 ICT" name="checkoutSeveralItemsUntilSuccessfullyTest" description="User login to apps and checkout several items" finished-at="2023-07-16T22:28:15 ICT" duration-ms="17401" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.cases.CheckoutItemsE2ETest.checkoutSeveralItemsUntilSuccessfullyTest(java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutSeveralItemsUntilSuccessfullyTest -->
+        <test-method is-config="true" signature="deleteAllCookiesAfterMethod()[pri:0, instance:test.cases.CheckoutItemsE2ETest@de8039f]" started-at="2023-07-16T22:28:16 ICT" name="deleteAllCookiesAfterMethod" finished-at="2023-07-16T22:28:16 ICT" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCookiesAfterMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.cases.CheckoutItemsE2ETest@de8039f]" started-at="2023-07-16T22:28:16 ICT" name="tearDown" finished-at="2023-07-16T22:28:16 ICT" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.cases.CheckoutItemsE2ETest -->
+    </test> <!-- Sauce Demo Test -->
+  </suite> <!-- Sauce Demo Suite -->
+</testng-results>
