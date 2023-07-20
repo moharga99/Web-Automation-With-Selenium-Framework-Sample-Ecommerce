@@ -1,0 +1,25 @@
+[INFO ] 2023-07-16 23:00:15.783 [main] Log - Automation test are starting !
+[INFO ] 2023-07-16 23:00:24.300 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-07-16 23:00:24.306 [main] Log - Swag Labs
+[INFO ] 2023-07-16 23:00:27.618 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-07-16 23:00:30.144 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-07-16 23:00:30.326 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-07-16 23:00:30.326 [main] Log - Swag Labs
+[INFO ] 2023-07-16 23:00:32.428 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-07-16 23:00:34.705 [main] Log - Page Epic sadface: Username and password do not match any user in this service is present!
+[INFO ] 2023-07-16 23:00:34.835 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-07-16 23:00:34.835 [main] Log - Swag Labs
+[INFO ] 2023-07-16 23:00:36.908 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-07-16 23:00:39.302 [main] Log - Page Epic sadface: Sorry, this user has been locked out. is present!
+[INFO ] 2023-07-16 23:00:39.401 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-07-16 23:00:39.401 [main] Log - Swag Labs
+[INFO ] 2023-07-16 23:00:41.489 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-07-16 23:00:43.881 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-07-16 23:00:44.088 [main] Log - Remove from cart button is not working!
+[INFO ] 2023-07-16 23:00:44.225 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-07-16 23:00:44.225 [main] Log - Swag Labs
+[INFO ] 2023-07-16 23:00:46.300 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-07-16 23:00:51.730 [main] Log - User has logged in to the app!
+[INFO ] 2023-07-16 23:00:51.760 [main] Log - User has logged in to the app!
+[INFO ] 2023-07-16 23:00:51.776 [main] Log - User has logged in to the app!
+[INFO ] 2023-07-16 23:00:51.819 [main] Log - Automation test are ending !
