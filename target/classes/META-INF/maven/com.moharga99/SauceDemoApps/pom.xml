@@ -15,7 +15,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.testresult.directory>${project.build.directory}/test-results</project.testresult.directory>
 		<aspectj.version>1.9.6</aspectj.version>
-		<maven-surefire-plugin-version>3.1.2</maven-surefire-plugin-version>
+		<maven.surefire.plugin.version>3.0.0-M5</maven.surefire.plugin.version>
 	</properties>
 
 	<dependencies>
@@ -118,7 +118,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-surefire-plugin</artifactId>
-				<version>3.1.2</version>
+				<version>${maven.surefire.plugin.version}</version>
 				<configuration>
 					<suiteXmlFiles>
 						<suiteXmlFile>TestNG.xml</suiteXmlFile>
