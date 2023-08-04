@@ -54,20 +54,20 @@ public class BaseTest {
 		// SafariDriver driver = new SafariDriver();
 		// ChromeDriver driver = new ChromeDriver();
 
-		// For handling org.openqa.selenium.remote.http.WebSocket$Listener onError?
-		ChromeOptions options = new ChromeOptions();
-		options.addArguments("--remote-allow-origins=*");
-		options.addArguments("--disable-notifications");
-		// options.addArguments("--headless");
-		DesiredCapabilities cp = new DesiredCapabilities();
-		cp.setCapability(ChromeOptions.CAPABILITY, options);
-		options.merge(cp);
+		/*
+		 * // For handling org.openqa.selenium.remote.http.WebSocket$Listener onError?
+		 * ChromeOptions options = new ChromeOptions();
+		 * options.addArguments("--remote-allow-origins=*");
+		 * options.addArguments("--disable-notifications"); //
+		 * options.addArguments("--headless"); DesiredCapabilities cp = new
+		 * DesiredCapabilities(); cp.setCapability(ChromeOptions.CAPABILITY, options);
+		 * options.merge(cp);
+		 */
 
 		// Webdriver Declaration
 		Log.info("Automation test are starting !");
-		driver = new ChromeDriver(options);
-		// System.setProperty("webdriver.chrome.driver",
-		// "C:\\FileAutomation\\Driver\\chromedriver.exe");
+		driver = new ChromeDriver();
+		System.setProperty("webdriver.chrome.driver", "..\\..\\..\\..\\..\\drivers\\chromedriver.exe");
 
 		// Implicitly Wait Timeouts
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));

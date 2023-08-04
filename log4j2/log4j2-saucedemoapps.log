@@ -23,3 +23,28 @@
 [INFO ] 2023-07-16 23:00:51.760 [main] Log - User has logged in to the app!
 [INFO ] 2023-07-16 23:00:51.776 [main] Log - User has logged in to the app!
 [INFO ] 2023-07-16 23:00:51.819 [main] Log - Automation test are ending !
+[INFO ] 2023-08-03 14:56:34.590 [main] Log - Automation test are starting !
+[INFO ] 2023-08-03 14:56:44.905 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-08-03 14:56:44.913 [main] Log - Swag Labs
+[INFO ] 2023-08-03 14:56:48.511 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-03 14:56:50.921 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-03 14:56:51.156 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-08-03 14:56:51.156 [main] Log - Swag Labs
+[INFO ] 2023-08-03 14:56:53.264 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-03 14:56:55.718 [main] Log - Page Epic sadface: Username and password do not match any user in this service is present!
+[INFO ] 2023-08-03 14:56:55.821 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-08-03 14:56:55.821 [main] Log - Swag Labs
+[INFO ] 2023-08-03 14:56:57.949 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-03 14:57:00.806 [main] Log - Page Epic sadface: Sorry, this user has been locked out. is present!
+[INFO ] 2023-08-03 14:57:01.048 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-08-03 14:57:01.048 [main] Log - Swag Labs
+[INFO ] 2023-08-03 14:57:03.158 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-03 14:57:05.779 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-03 14:57:06.199 [main] Log - Remove from cart button is not working!
+[INFO ] 2023-08-03 14:57:06.427 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-08-03 14:57:06.428 [main] Log - Swag Labs
+[INFO ] 2023-08-03 14:57:08.525 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-03 14:57:13.881 [main] Log - User has logged in to the app!
+[INFO ] 2023-08-03 14:57:13.908 [main] Log - User has logged in to the app!
+[INFO ] 2023-08-03 14:57:13.931 [main] Log - User has logged in to the app!
+[INFO ] 2023-08-03 14:57:13.962 [main] Log - Automation test are ending !
