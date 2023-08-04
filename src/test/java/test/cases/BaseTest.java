@@ -1,5 +1,6 @@
 package test.cases;
 
+import java.io.File;
 import java.time.Duration;
 
 import org.openqa.selenium.WebDriver;
@@ -67,7 +68,7 @@ public class BaseTest {
 		// Webdriver Declaration
 		Log.info("Automation test are starting !");
 		driver = new ChromeDriver();
-		System.setProperty("webdriver.chrome.driver", "..\\..\\..\\..\\..\\drivers\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "drivers" + File.separator + "chromedriver");
 
 		// Implicitly Wait Timeouts
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
