@@ -298,3 +298,109 @@
 [INFO ] 2023-08-04 16:29:12.209 [main] Log - loginWithPerformanceGlitchAccount test is succeed.
 [INFO ] 2023-08-04 16:29:12.862 [main] Log - Automation test are ending !
 [INFO ] 2023-08-04 16:29:13.043 [main] Log - Sauce Demo Test method are starting.
+[INFO ] 2023-08-04 17:07:05.830 [main] Log - Sauce Demo Test method are starting.
+[INFO ] 2023-08-04 17:07:05.908 [main] Log - Automation test are starting !
+[INFO ] 2023-08-04 17:07:13.677 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-08-04 17:07:13.680 [main] Log - Swag Labs
+[INFO ] 2023-08-04 17:07:14.196 [main] Log - checkoutSeveralItemsUntilSuccessfullyTest test is starting.
+[INFO ] 2023-08-04 17:07:16.799 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-04 17:07:19.133 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-04 17:07:21.390 [main] Log - Page Your Cart is present!
+[INFO ] 2023-08-04 17:07:23.571 [main] Log - Page Checkout: Your Information is present!
+[INFO ] 2023-08-04 17:07:26.262 [main] Log - Page Checkout: Overview is present!
+[INFO ] 2023-08-04 17:07:26.365 [main] Log - Total price is correct : 23.98 = 23.98
+[INFO ] 2023-08-04 17:07:26.446 [main] Log - Total price with tax is correct : 25.9 = 25.9
+[INFO ] 2023-08-04 17:07:28.587 [main] Log - Page Checkout: Complete! is present!
+[INFO ] 2023-08-04 17:07:28.681 [main] Log - Thank you for your order! , Your order has been dispatched, and will arrive just as fast as the pony can get there!
+[INFO ] 2023-08-04 17:07:30.788 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-04 17:07:30.792 [main] Log - checkoutSeveralItemsUntilSuccessfullyTest test is succeed.
+[INFO ] 2023-08-04 17:07:31.524 [main] Log - Automation test are ending !
+[INFO ] 2023-08-04 17:07:31.717 [main] Log - Automation test are starting !
+[INFO ] 2023-08-04 17:07:38.338 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-08-04 17:07:38.339 [main] Log - Swag Labs
+[INFO ] 2023-08-04 17:07:38.468 [main] Log - loginWithCorrectData test is starting.
+[INFO ] 2023-08-04 17:07:40.511 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-04 17:07:42.774 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-04 17:07:42.774 [main] Log - loginWithCorrectData test is succeed.
+[INFO ] 2023-08-04 17:07:43.434 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-08-04 17:07:43.434 [main] Log - Swag Labs
+[INFO ] 2023-08-04 17:07:43.449 [main] Log - loginWithIncorrectData test is starting.
+[INFO ] 2023-08-04 17:07:45.524 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-04 17:07:47.710 [main] Log - Page Epic sadface: Username and password do not match any user in this service is present!
+[INFO ] 2023-08-04 17:07:47.710 [main] Log - loginWithIncorrectData test is succeed.
+[INFO ] 2023-08-04 17:07:48.196 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-08-04 17:07:48.197 [main] Log - Swag Labs
+[INFO ] 2023-08-04 17:07:48.211 [main] Log - loginWithLockedOutAccount test is starting.
+[INFO ] 2023-08-04 17:07:50.288 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-04 17:07:52.503 [main] Log - Page Epic sadface: Sorry, this user has been locked out. is present!
+[INFO ] 2023-08-04 17:07:52.503 [main] Log - loginWithLockedOutAccount test is succeed.
+[INFO ] 2023-08-04 17:07:52.947 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-08-04 17:07:52.947 [main] Log - Swag Labs
+[INFO ] 2023-08-04 17:07:52.965 [main] Log - loginWithProblemAccount test is starting.
+[INFO ] 2023-08-04 17:07:55.035 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-04 17:07:57.343 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-04 17:07:57.449 [main] Log - Remove from cart button is not working!
+[INFO ] 2023-08-04 17:07:57.450 [main] Log - loginWithProblemAccount test is succeed.
+[INFO ] 2023-08-04 17:07:58.234 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-08-04 17:07:58.234 [main] Log - Swag Labs
+[INFO ] 2023-08-04 17:07:58.255 [main] Log - loginWithPerformanceGlitchAccount test is starting.
+[INFO ] 2023-08-04 17:08:00.351 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-04 17:08:05.610 [main] Log - User has logged in to the app!
+[INFO ] 2023-08-04 17:08:05.625 [main] Log - User has logged in to the app!
+[INFO ] 2023-08-04 17:08:05.640 [main] Log - User has logged in to the app!
+[INFO ] 2023-08-04 17:08:05.641 [main] Log - loginWithPerformanceGlitchAccount test is succeed.
+[INFO ] 2023-08-04 17:08:06.272 [main] Log - Automation test are ending !
+[INFO ] 2023-08-04 17:08:06.514 [main] Log - Sauce Demo Test method are starting.
+[INFO ] 2023-08-04 17:16:18.428 [main] Log - Sauce Demo Test method are starting.
+[INFO ] 2023-08-04 17:16:18.519 [main] Log - Automation test are starting !
+[INFO ] 2023-08-04 17:16:23.683 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-08-04 17:16:23.689 [main] Log - Swag Labs
+[INFO ] 2023-08-04 17:16:24.154 [main] Log - checkoutSeveralItemsUntilSuccessfullyTest test is starting.
+[INFO ] 2023-08-04 17:16:26.628 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-04 17:16:28.923 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-04 17:16:31.161 [main] Log - Page Your Cart is present!
+[INFO ] 2023-08-04 17:16:33.343 [main] Log - Page Checkout: Your Information is present!
+[INFO ] 2023-08-04 17:16:35.975 [main] Log - Page Checkout: Overview is present!
+[INFO ] 2023-08-04 17:16:36.056 [main] Log - Total price is correct : 23.98 = 23.98
+[INFO ] 2023-08-04 17:16:36.139 [main] Log - Total price with tax is correct : 25.9 = 25.9
+[INFO ] 2023-08-04 17:16:38.225 [main] Log - Page Checkout: Complete! is present!
+[INFO ] 2023-08-04 17:16:38.310 [main] Log - Thank you for your order! , Your order has been dispatched, and will arrive just as fast as the pony can get there!
+[INFO ] 2023-08-04 17:16:40.457 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-04 17:16:40.460 [main] Log - checkoutSeveralItemsUntilSuccessfullyTest test is succeed.
+[INFO ] 2023-08-04 17:16:41.187 [main] Log - Automation test are ending !
+[INFO ] 2023-08-04 17:16:41.444 [main] Log - Automation test are starting !
+[INFO ] 2023-08-04 17:16:43.959 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-08-04 17:16:43.960 [main] Log - Swag Labs
+[INFO ] 2023-08-04 17:16:44.144 [main] Log - loginWithCorrectData test is starting.
+[INFO ] 2023-08-04 17:16:46.197 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-04 17:16:48.482 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-04 17:16:48.483 [main] Log - loginWithCorrectData test is succeed.
+[INFO ] 2023-08-04 17:16:49.195 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-08-04 17:16:49.196 [main] Log - Swag Labs
+[INFO ] 2023-08-04 17:16:49.215 [main] Log - loginWithIncorrectData test is starting.
+[INFO ] 2023-08-04 17:16:51.272 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-04 17:16:53.472 [main] Log - Page Epic sadface: Username and password do not match any user in this service is present!
+[INFO ] 2023-08-04 17:16:53.472 [main] Log - loginWithIncorrectData test is succeed.
+[INFO ] 2023-08-04 17:16:53.919 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-08-04 17:16:53.920 [main] Log - Swag Labs
+[INFO ] 2023-08-04 17:16:53.937 [main] Log - loginWithLockedOutAccount test is starting.
+[INFO ] 2023-08-04 17:16:55.988 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-04 17:16:58.247 [main] Log - Page Epic sadface: Sorry, this user has been locked out. is present!
+[INFO ] 2023-08-04 17:16:58.248 [main] Log - loginWithLockedOutAccount test is succeed.
+[INFO ] 2023-08-04 17:16:58.740 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-08-04 17:16:58.740 [main] Log - Swag Labs
+[INFO ] 2023-08-04 17:16:58.759 [main] Log - loginWithProblemAccount test is starting.
+[INFO ] 2023-08-04 17:17:00.835 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-04 17:17:03.099 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-04 17:17:03.185 [main] Log - Remove from cart button is not working!
+[INFO ] 2023-08-04 17:17:03.185 [main] Log - loginWithProblemAccount test is succeed.
+[INFO ] 2023-08-04 17:17:03.956 [main] Log - https://www.saucedemo.com/
+[INFO ] 2023-08-04 17:17:03.956 [main] Log - Swag Labs
+[INFO ] 2023-08-04 17:17:03.976 [main] Log - loginWithPerformanceGlitchAccount test is starting.
+[INFO ] 2023-08-04 17:17:06.070 [main] Log - Page Swag Labs is present!
+[INFO ] 2023-08-04 17:17:11.348 [main] Log - User has logged in to the app!
+[INFO ] 2023-08-04 17:17:11.370 [main] Log - User has logged in to the app!
+[INFO ] 2023-08-04 17:17:11.393 [main] Log - User has logged in to the app!
+[INFO ] 2023-08-04 17:17:11.393 [main] Log - loginWithPerformanceGlitchAccount test is succeed.
+[INFO ] 2023-08-04 17:17:12.050 [main] Log - Automation test are ending !
+[INFO ] 2023-08-04 17:17:12.295 [main] Log - Sauce Demo Test method are starting.
