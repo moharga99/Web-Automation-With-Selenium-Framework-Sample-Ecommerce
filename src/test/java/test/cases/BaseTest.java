@@ -67,8 +67,8 @@ public class BaseTest {
 
 		// Webdriver Declaration
 		Log.info("Automation test are starting !");
+		System.setProperty("webdriver.chrome.driver", "drivers" + File.separator + "chromedriver.exe");
 		driver = new ChromeDriver();
-		System.setProperty("webdriver.chrome.driver", "drivers" + File.separator + "chromedriver");
 
 		// Implicitly Wait Timeouts
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
